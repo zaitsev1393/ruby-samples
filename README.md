@@ -8,3 +8,9 @@ The description of each problem is placed at the top of every .rb file.
 
 1. Sort array of names with given letter.
 2. Finding the biggest number from combinations of number of array.
+
+## Patterns implemented
+
+I'm learning patterns so this is my sandbox
+
+1. Strategy
