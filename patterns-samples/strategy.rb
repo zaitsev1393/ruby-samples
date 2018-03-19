@@ -2,9 +2,9 @@
 
 class Array
   def to_xml
-  	xml = ''
-  	self.each { |attr| attr.each { |k,v| xml += "<#{k}>#{v}</#{k}>"} }
-  	xml
+    xml = ''
+    self.each { |attr| attr.each { |k,v| xml += "<#{k}>#{v}</#{k}>"} }
+    xml
   end
 end
 
